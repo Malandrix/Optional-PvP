@@ -1,0 +1,8 @@
+name: Optional PvP
+main: com.bunnehrealm.gmail.optionalPvP.MainClass
+version: 1.0
+description: >
+            Allows optional PvP!
+commands:
+  pvp:
+    description: Changes pvp enable or disable
