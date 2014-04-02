@@ -10,11 +10,6 @@ public class JoinEvent implements Listener{
 
 	public PlayerJoinEvent e;
 	public Player p;
-	Notification Notification;
-	
-	JoinEvent(Notification Notification){
-		this.Notification = Notification;
-	}
 	
 	JoinEvent(MainClass MainClass){
 		this.MainClass = MainClass;
